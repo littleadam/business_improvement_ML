@@ -2,4 +2,4 @@ Project to improve the business by using the latest ML techniques and business a
 
 it also considers various business factors for success
 
-GenAI on AWS is used for the development
+GenAI on AWS is used for the development to get accurate results
